@@ -1,4 +1,4 @@
-## [Live Website](https://cp-flixfinder.netlify.app)
+## [Live Website](https://cp-flickfinder.netlify.app)
 
 ## Getting Started with Create React App
 
